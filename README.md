@@ -1,71 +1,69 @@
-<!-- # Film Sitesi <br><br>
-<br>
+ # Film Sitesi 
+
 📌 Proje Açıklaması
 Bu proje, modern web teknolojileri kullanılarak geliştirilmiş tamamen responsive bir film izleme platformudur. Kullanıcı dostu arayüzü ve etkileşimli öğeleriyle öne çıkan bu platform, tüm cihaz boyutlarında sorunsuz çalışmaktadır.
-<br> <br>
-✨ Öne Çıkan Özellikler <br> <br>
-Tamamen Responsive Tasarım: Flexbox ve Grid kullanılarak oluşturuldu<br> <br>
 
-Karanlık/Açık Mod: Kullanıcı tercihine göre tema değiştirme<br><br>
+✨ Öne Çıkan Özellikler 
+Tamamen Responsive Tasarım: Flexbox ve Grid kullanılarak oluşturuldu
 
-Film Kategorileri: Popüler, gündemdekiler ve yeni çıkanlar bölümleri<br><br>
+Karanlık/Açık Mod: Kullanıcı tercihine göre tema değiştirme
 
-Etkileşimli Film Listeleri: Yatay kaydırılabilir film galerileri<br><br>
+Film Kategorileri: Popüler, gündemdekiler ve yeni çıkanlar bölümleri
 
-Dinamik Navigasyon: Kullanışlı menü ve sidebar yapısı<br><br>
+Etkileşimli Film Listeleri: Yatay kaydırılabilir film galerileri
 
-🛠 Kullanılan Teknolojiler<br><br>
-HTML5: Semantik yapı<br><br>
+Dinamik Navigasyon: Kullanışlı menü ve sidebar yapısı
 
-CSS3: Flexbox, Animasyonlar, Media Queries<br><br>
+🛠 Kullanılan Teknolojiler
+HTML5: Semantik yapı
+CSS3: Flexbox, Animasyonlar, Media Queries
 
-JavaScript: Dinamik içerik yönetimi<br><br>
+JavaScript: Dinamik içerik yönetimi
 
-Bootstrap Icons: Modern ikon seti<br><br>
+Bootstrap Icons: Modern ikon seti
+Google Fonts: Electrolize font ailesi
 
-Google Fonts: Electrolize font ailesi<br><br>
+📱 Responsive Yapı
+Proje 3 temel ekran boyutuna göre optimize edilmiştir:
 
-📱 Responsive Yapı<br><br>
-Proje 3 temel ekran boyutuna göre optimize edilmiştir:<br><br>
+Masaüstü: 800px ve üzeri
 
-Masaüstü: 800px ve üzeri<br><br>
+Tablet: 500px - 799px
 
-Tablet: 500px - 799px<br><br>
+Mobil: 499px ve altı
 
-Mobil: 499px ve altı<br><br>
+🎬 Proje Bileşenleri
 
-🎬 Proje Bileşenleri<br><br>
+1. Ana Sayfa
+   Fullscreen hero bölümü (Öne çıkan film)
 
-1. Ana Sayfa<br><br>
-   Fullscreen hero bölümü (Öne çıkan film)<br><br>
+Film filtreleme seçeneği
 
-Film filtreleme seçeneği<br><br>
+Kategorilere göre film listeleri
 
-Kategorilere göre film listeleri<br><br>
+2. Film Listeleri
+   Yatay kaydırılabilir film kartları
 
-2. Film Listeleri<br><br>
-   Yatay kaydırılabilir film kartları<br><br>
+Film üzerine gelince açılan detay butonları
 
-Film üzerine gelince açılan detay butonları<br><br>
+Sağ/sol kaydırma okları
 
-Sağ/sol kaydırma okları<br><br>
+3. Kullanıcı Arayüzü
+   Sabit navbar (üst menü)
 
-3. Kullanıcı Arayüzü<br><br>
-   Sabit navbar (üst menü)<br><br>
+Fixed sidebar (yan menü)
 
-Fixed sidebar (yan menü)<br><br>
+Karanlık/aydınlık mod geçişi
 
-Karanlık/aydınlık mod geçişi<br><br>
+Kullanıcı profili alanı
 
-Kullanıcı profili alanı<br><br>
+🚀 Kurulum ve Kullanım
+Proje dosyalarını bilgisayarınıza indirin
 
-🚀 Kurulum ve Kullanım<br><br>
-Proje dosyalarını bilgisayarınıza indirin<br><br>
+index.html dosyasını herhangi bir tarayıcıda açın
 
-index.html dosyasını herhangi bir tarayıcıda açın<br><br>
+Hiçbir ek kurulum veya bağımlılık gerektirmez
 
-Hiçbir ek kurulum veya bağımlılık gerektirmez<br><br>
-
-📷 Ekran Görüntüleri<br><br> -->
+📷 Ekran Görüntüleri
 
 ![](film.gif)
