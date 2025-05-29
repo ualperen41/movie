@@ -3,6 +3,11 @@
 📌 Proje Açıklaması
 Bu proje, modern web teknolojileri kullanılarak geliştirilmiş tamamen responsive bir film izleme platformudur. Kullanıcı dostu arayüzü ve etkileşimli öğeleriyle öne çıkan bu platform, tüm cihaz boyutlarında sorunsuz çalışmaktadır.
 
+📷 Ekran Görüntüleri
+
+![](film.gif)
+
+
 ✨ Öne Çıkan Özellikler 
 Tamamen Responsive Tasarım: Flexbox ve Grid kullanılarak oluşturuldu
 
@@ -64,6 +69,3 @@ index.html dosyasını herhangi bir tarayıcıda açın
 
 Hiçbir ek kurulum veya bağımlılık gerektirmez
 
-📷 Ekran Görüntüleri
-
-![](film.gif)
